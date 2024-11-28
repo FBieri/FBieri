@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Felix Bieri</h1>
 <h3 align="center">A passionate electical engineer and high voltage enthusiast.</h3>
 
-- 🔭 I’m currently working on **ME DRSSTC 2**
+- ⚡ I’m currently working on another Teslacoil, **ME DRSSTC 2**
 
 - 🌱 I’m currently learning **EVERYTHING**
 
-- 👯 I’m looking to collaborate on **Teslacoil presentations**
+- 👯 I’m looking to collaborate on **Teslacoil or other Electronics designs**
 
 - 🤝 I’m looking for help with **things I don't understand**
 
 - 👨‍💻 All of my projects are available at [maelstrom-electronics.ch](maelstrom-electronics.ch)
 
-- 💬 Ask me about **EVERYTHING**
+- 💬 Ask me about **EVERYTHING electronics related**
 
 - 📫 How to reach me **info@maelstrom-electronics.ch**
 
-- ⚡ Fun fact **Dead serious people are (mostly) not really dead.**
+- 🔭 Fun fact **Dead serious people are (mostly) not really dead.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
