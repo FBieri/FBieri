@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **things I don't understand**
 
-- 👨‍💻 All of my projects are available at [maelstrom-electronics.ch](maelstrom-electronics.ch)
+- 👨‍💻 All of my projects are available at [maelstrom-electronics.ch](https://maelstrom-electronics.ch/)
 
 - 💬 Ask me about **EVERYTHING electronics related**
 
